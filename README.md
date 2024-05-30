@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melvin</h1>
 <h3 align="center">Data Analyst Jr en alternance Data engineering & I.A.</h3>
 
-- 📫 How to reach me **melvin33000@me.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/melvinfrerot](www.linkedin.com/in/melvinfrerot)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melvinfrerot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvinfrerot" height="30" width="40" /></a>
